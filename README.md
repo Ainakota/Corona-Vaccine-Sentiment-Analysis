@@ -7,4 +7,4 @@ To compare the general sentiment in tweets concerning Pfizer-BioNTech, Moderna, 
 
 To identify pockets of positive and negative emotion across Canada, these sentiments will be combined with geographic information. The popularity of good vs. negative tweets across several English-speaking countries will be compared through an analysis of retweets and likes.
 
-The data set can be found [here](https://www.kaggle.com/datasets/gpreda/pfizer-vaccine-tweets).
+The dataset can be accessed by clicking [here](https://www.kaggle.com/datasets/gpreda/pfizer-vaccine-tweets) to go to the Kaggle website.
